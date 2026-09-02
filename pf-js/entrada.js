@@ -19,7 +19,8 @@
  console.log("Hola soy " + nombre + "\ny tengo " + edad + " años");
  alert("Hola soy" + nombre + " y tengo " + edad + "años");*/
 
-const serie = prompt("¿Cuál es tu serie o película favorita?");
+
+/**const serie = prompt("¿Cuál es tu serie o película favorita?");
 const personaje = prompt("¿Cuál es tu personaje favorito de " + serie + "?");
 const razon = prompt("¿Por qué " + personaje + " es tu favorito?");
 
@@ -29,5 +30,5 @@ console.log(razon);
 
 alert("En la serie " + serie + " sale el personaje " + personaje + " y es mi favorito por " + razon);
 
-
+*/
 
